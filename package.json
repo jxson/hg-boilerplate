@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "browserify": "^11.0.1",
+    "st": "^0.5.5"
+  },
+  "dependencies": {
+    "domready": "^1.0.8",
+    "mercury": "^14.0.0"
+  }
+}
